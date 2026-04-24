@@ -92,7 +92,7 @@ house-price-ml/
 ### 1. Clone & setup environment
 
 ```bash
-git clone https://github.com/username/house-price-ml.git
+git clone https://github.com/DANUFR17/house-price-prediction.git
 cd house-price-ml
 
 python -m venv venv
