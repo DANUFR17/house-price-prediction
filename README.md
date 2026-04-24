@@ -7,7 +7,7 @@ Proyek machine learning end-to-end untuk memprediksi harga rumah menggunakan dat
 ## Struktur Project
 
 ```
-house-price-ml/
+house-price-prediction/
 │
 ├── data/
 │   ├── train.csv                  # Dataset asli dari Kaggle
